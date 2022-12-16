@@ -1,1 +1,159 @@
-# pr
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY FARM</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <section>
+    <nav id="navbar">
+        <div class="logo-img">
+            <img src="images/my-farm.png" alt="logo-image">
+        </div>
+        <ul>
+            <li class="item"><a href="#">Home</a></li>
+            <li class="item"><a href="D:\milk delivery web\Login page\index.html">Login</a></li>
+            <li class="item"><a href="D:\milk delivery web\Login page\college\new web\index.html">Sign Up</a></li>
+            <li class="item"><a href="D:\milk delivery web\Contact me page\contact me web\index.html">Contact Us</a></li>
+            <li class="item"><a href="#">About Us</a></li>
+
+        </ul>
+    </nav>
+    </section>
+    <!--Home sections-->
+    <section class="home">
+       <div>
+        <h1>WELCOME TO MY MILK FARM.</h1>
+<br>
+<p>Start your day with freshness. </p>
+<p>order now to to Online milk delivery at your home.</p>
+<p>Delivery within 30 minutes and safe delivery.</p>
+        
+    </div>
+        <button class="btn"><a href="D:\milk delivery web\Address\address website\index.html">Order Now</a></button>
+        
+            <img class="cow" src="images/cute_cow.png" alt="" >
+        
+      
+    </section>
+<!--delivery-process sections-->
+  <section class="delivery-process">
+<div class="milk">
+<img style="padding: 0 0 20px 0;" class="milk-img" src="images/fresh milk.png" alt="" height="190">
+<h3>Fresh Milk</h3>
+<br>
+<p>ipsum gepsum epsum gepsum</p>
+    <p> ipsum gepsum epsum gepsum</p>
+
+
+</div>
+
+<div class="curd">
+    <img style="padding: 20px 0 35px 0;" class="curd-img" src="images/curd-pouch.png" alt="" height="150">
+    <h3>Fresh Curd</h3>
+<br>
+<p>ipsum gepsum epsum gepsum</p>
+    <p> ipsum gepsum epsum gepsum</p>
+
+    </div>
+
+    <div class="delivry-girl">
+        <img style="padding: 0 0 15px 0;" class="delivery-girl-img" src="images/delivery-pic.png" alt="" height="">
+        <h3>Safe Delivery</h3>
+<br>
+<p>ipsum gepsum epsum gepsum</p>
+    <p> ipsum gepsum epsum gepsum</p>
+
+        </div>
+
+    </section>
+
+
+<!--Product sections-->
+    <section class="product">
+        
+        <h2>Milk Product</h2>
+        <section class="product-container">
+            <div class="all-milk">
+            <img style="background-position: center ;" class="all-milk-img" src="images/all-milk-img.png" alt="" height="200">
+            <hr>
+            <h3>All Milk</h3>
+            <br>
+            <p>ipsum gepsum epsum gepsum</p>
+                <p> ipsum gepsum epsum gepsum</p>
+            
+            <button class="btn"><a href="D:\milk delivery web\payment\index.html">Order Now</a></button>
+            </div>
+            
+            <div class="low-fat-milk">
+                <img  class="low-fat-img" src="images/skim milk.jpg" alt="" height="200">
+                <hr>
+                <h3>Low Fat Milk</h3>
+            <br>
+            <p>ipsum gepsum epsum gepsum</p>
+                <p> ipsum gepsum epsum gepsum</p>
+                <button class="btn"><a href="D:\milk delivery web\payment\index.html">Order Now</a></button>
+                </div>
+            
+                <div class="other-milk">
+                    <img  class="other-milk-img" src="images/other milk.jpg" alt="" height="200">
+                    <hr>
+                    <h3>Other Milk</h3>
+            <br>
+            <p>ipsum gepsum epsum gepsum</p>
+                <p> ipsum gepsum epsum gepsum</p>
+                <button class="btn"><a href="D:\milk delivery web\payment\index.html">Order Now</a></button>
+                    </div>
+
+                    <div class="all-curd">
+                        <img  class="all-curd-img" src="images/all curd img.png" alt="" height="200">
+                        <hr>
+                        <h3>All Curd</h3>
+                <br>
+                <p>ipsum gepsum epsum gepsum</p>
+                    <p> ipsum gepsum epsum gepsum</p>
+                    <button class="btn"><a href="D:\milk delivery web\payment\index.html">Order Now</a></button>
+                        </div>
+</section>
+    </section>
+    <hr>
+
+    <!--Guaranteed sections-->
+    <section class="guaranteed-section">
+
+    <h1>We Guaranteed You</h1>
+
+
+
+         <div class="watch"> 
+          <img   src="images/hand watch.png" alt="watch image" width="170" >
+          <p>On-time every time guaranteed</p>
+         </div>
+
+    <div class="guaranteed">
+          <img src="images/guaranteed.png" alt="guaranteed-logo img" height="130">
+          <p>Freshness you can trust on my farm</p>
+    </div>
+
+
+    </section>
+    
+    <!--Contact Us sections-->
+    <section class="section-contact-us">
+<button class="contact-btn"><a href="D:\milk delivery web\Contact me page\contact me web\index.html">Contact Us</a></button>
+
+<div class="instagram">
+<a class="social" href="#">Twitter</a>
+<a class="social" href="#">facebook</a>
+<a class="social" href="#">instagram</a>
+</div>
+<div class="copyright">
+    <p>copyright@2022 my milk farm</p>
+</div>
+    </section>
+</body>
+</html>
